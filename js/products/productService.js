@@ -1,4 +1,4 @@
-angular.module('miniRouting').service('productsService', function(){
+angular.module('miniRouting').service('productService', function(){
 
     this.shoeData = [
         {
